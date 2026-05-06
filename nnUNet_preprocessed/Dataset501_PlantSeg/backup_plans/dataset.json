@@ -1,0 +1,15 @@
+{
+  "channel_names": {
+    "0": "R",
+    "1": "G",
+    "2": "B"
+  },
+  "labels": {
+    "background": 0,
+    "disease": 1
+  },
+  "numTraining": 11458,
+  "file_ending": ".png",
+  "dataset_name": "PlantSeg",
+  "description": "Converted PlantSeg -> nnUNet_raw Dataset501_PlantSeg"
+}
