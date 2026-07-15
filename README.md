@@ -186,6 +186,8 @@ python compute_metrics.py
 *Note: Results may vary based on dataset size and training parameters.*
 
 ### Sample Results
+<img width="2300" height="4800" alt="progress" src="https://github.com/user-attachments/assets/ba2c79ed-2e47-4e67-b8b5-ed100890cc8a" />
+
 
 ![Segmentation Results](https://via.placeholder.com/600x300?text=Sample+Segmentation+Results)
 
